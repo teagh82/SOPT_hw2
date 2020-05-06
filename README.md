@@ -46,17 +46,16 @@ RecyclerView를 사용할 때 padding을 그냥 주면 스크롤 할 때 padding
 
 -- android:clipToPadding="true"인 경우 --
  <div>
-<img width="200" src="https://user-images.githubusercontent.com/59547069/81188091-e202a000-8fef-11ea-927d-ab5b46392a9c.png">
-<img width="200" src="https://user-images.githubusercontent.com/59547069/81188164-f777ca00-8fef-11ea-9620-ad8f84d8dbb0.png">
-<img width="200" src="https://user-images.githubusercontent.com/59547069/81188199-fe064180-8fef-11ea-999c-86e82fda3b3a.png">
+<img width="200" src="https://user-images.githubusercontent.com/59547069/81189076-1aef4480-8ff1-11ea-822e-a4870ce40ecd.png">
+<img width="200" src="https://user-images.githubusercontent.com/59547069/81189081-1dea3500-8ff1-11ea-8c38-0ec2be18c5ba.png">
+<img width="200" src="https://user-images.githubusercontent.com/59547069/81189088-1fb3f880-8ff1-11ea-8911-a1bb14c0c836.png">
 </div>
 </br>
 
 -- android:clipToPadding="false"인 경우 --
 <div>
-<img width="200" src="https://user-images.githubusercontent.com/59547069/81188091-e202a000-8fef-11ea-927d-ab5b46392a9c.png">
-<img width="200" src="https://user-images.githubusercontent.com/59547069/81188164-f777ca00-8fef-11ea-9620-ad8f84d8dbb0.png">
-<img width="200" src="https://user-images.githubusercontent.com/59547069/81188199-fe064180-8fef-11ea-999c-86e82fda3b3a.png">
+<img width="200" src="https://user-images.githubusercontent.com/59547069/81189260-5b4ec280-8ff1-11ea-8c53-d8efd300d05d.png">
+<img width="200" src="https://user-images.githubusercontent.com/59547069/81189271-5db11c80-8ff1-11ea-87cf-a300df47e077.png">
 </div>
 </br>
 
