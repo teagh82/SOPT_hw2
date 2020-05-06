@@ -2,10 +2,10 @@
 sopt 과제2 안드로이드파트_김기현
 
 <기본 과제 1>
+---------------
 Bottom Navigation, ViewPager, RecyclerView 이용해서 직접 실습 해보기
 
 실습한 결과물 사진
-Screenshots
 ---------------
 <div>
 <img width="200" src="https://user-images.githubusercontent.com/59547069/81177190-3e11f800-8fe1-11ea-9447-d167cd67f674.png">
@@ -19,6 +19,7 @@ Screenshots
 </div>
 
 <기본 과제 2>
+---------------
 RecyclerView의 itemDecoration, clipToPadding 에 대해 공부해보시고 적용해보기
 
 
@@ -27,4 +28,5 @@ itemDecoration과 clipToPadding의 기능이 무엇인지 요약해서 업로드
 
 
 <성장 과제 1> ___ 업로드 예정
+---------------
 네이버 웹툰 뷰를 짜기 (힌트 : Grid 형태)
